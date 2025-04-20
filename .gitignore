@@ -1,0 +1,47 @@
+# Bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+.venv/
+venv/
+env/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+
+# PyCharm
+*.iml
+*.ipr
+*.iws
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Test coverage
+.coverage
+.coverage.*
+nosetests.xml
+tox.ini
+*.hypothesis/
+
+# SQLAlchemy
+*.db
+
+# Logs
+*.log
+
+# Other files
+*.sqlite3
